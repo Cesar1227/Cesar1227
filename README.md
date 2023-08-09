@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular, typeScript and SpringBoot**
+- 🌱 I’m currently learning **Angular, typeScript, SpringBoot y AWS**
 
 - 📫 How to reach me **bonicesar94@gmail.com**
 
